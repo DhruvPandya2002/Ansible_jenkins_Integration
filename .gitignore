@@ -1,6 +1,6 @@
 CWS-WEBPAGE.pem
 key
-key.pem
+key.pub
 inventory.ini
 deployment_playbook.yml
 README.md
